@@ -1,5 +1,7 @@
 ### Hi there 👋
-Iam Amina,
+Iam Amina, 
+Iam exciting to join the Web development world and currently a student in a passionate school called Wild Code School.
+Iam looking for an internship between 2 and 6 months.
 <!--
 **Samarcande86/Samarcande86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
